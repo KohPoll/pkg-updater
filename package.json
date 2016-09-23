@@ -1,0 +1,11 @@
+{
+  "name": "pkg-updater",
+  "version": "1.0.0",
+  "description": "Check the package in background, and notify you for update.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kohpoll",
+  "license": "ISC"
+}
