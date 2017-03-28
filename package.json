@@ -9,8 +9,11 @@
   "author": "kohpoll",
   "license": "ISC",
   "devDependencies": {
+    "fixture-stdout": "^0.2.1",
+    "sinon": "^1.17.6",
     "tap": "^7.1.2",
-    "tape": "^4.6.0"
+    "tape": "^4.6.0",
+    "tape-co": "^1.0.1"
   },
   "dependencies": {
     "boxen": "^0.8.1",
