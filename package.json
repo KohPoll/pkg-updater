@@ -1,7 +1,7 @@
 {
   "name": "pkg-updater",
   "version": "1.0.0",
-  "description": "Check the package in background, and notify you for update.",
+  "description": "A simple updater which use in your cli tool.",
   "main": "index.js",
   "scripts": {
     "test": "tap test/**/*.js"

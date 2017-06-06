@@ -1,5 +1,5 @@
 # pkg-updater
-This package is suitable for update checking of cli tools. It will check the version in background process, and notify the users when update.
+This package is suitable for update checking of cli tools. It will check the version in background process, and notify the users when update is available.
 
 ## Usage
 Install the module with: `npm install pkg-updater --save`.
