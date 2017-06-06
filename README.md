@@ -52,7 +52,7 @@ You can provide:
 The interval(ms) to create the daemon check process. It is `60 * 60 * 1000`(1h) by default.
 
 #### updateMessage
-The message we use to notiy user in the terminal. It can be a template string. The default value is: 
+The message we use to notiy user in the terminal. It is a lodash template string. The default value is: 
 
 ```bash
 'Package update available:' +
