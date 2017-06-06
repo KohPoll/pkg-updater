@@ -6,6 +6,10 @@
   "scripts": {
     "test": "tap test/**/*.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KohPoll/pkg-updater"
+  },
   "author": "kohpoll",
   "license": "ISC",
   "devDependencies": {
