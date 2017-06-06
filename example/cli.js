@@ -3,7 +3,7 @@
 require('./../lib/')({
   'pkg': {
     'name': 'npm',
-    'version': '2.10.0'
+    'version': '3.10.0'
   }
 }).then(() => {
   console.log('ok');
