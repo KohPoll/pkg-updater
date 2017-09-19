@@ -1,6 +1,6 @@
 {
   "name": "pkg-updater",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple updater which use in your cli tool.",
   "main": "lib/index.js",
   "scripts": {
