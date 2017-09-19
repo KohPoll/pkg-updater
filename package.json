@@ -2,7 +2,7 @@
   "name": "pkg-updater",
   "version": "1.0.1",
   "description": "A simple updater which use in your cli tool.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "tap test/**/*.js"
   },
