@@ -28,5 +28,8 @@
     "normalize-url": "^1.6.1",
     "semver": "^5.3.0",
     "userhome": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
