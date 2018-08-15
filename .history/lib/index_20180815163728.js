@@ -17,7 +17,7 @@ module.exports = updater;
  *   - onVersionChange
  */
 function updater(opts) {
-  opts = Object.assign({}, updater.defaultOpts, opts || {});
+  opts = Object.assign(updater.defaultOpts, opts || {});
 
   if (!opts.registry) {
     throw new Error('opts.registry is required');
