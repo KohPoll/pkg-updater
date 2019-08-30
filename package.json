@@ -6,6 +6,7 @@
   "scripts": {
     "test": "tap test/**/*.js"
   },
+  "typings": "types/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/KohPoll/pkg-updater"
